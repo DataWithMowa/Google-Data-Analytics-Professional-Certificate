@@ -1,4 +1,6 @@
-# Google Data Analytics Professional Certificate
+# COURSE 1 OF GOOGLE DATA ANALYTICS PROFESSIONAL CERTIFICATE
+
+## Google Data Analytics Professional Certificate
 
 Completed through the **Wetech Inc. Data Analytics Track**.
 
