@@ -157,3 +157,151 @@ This course gave me a foundation in data analytics and introduced me to the impo
 My biggest lesson:
 
 > **A good data analyst doesn't just analyze data. They question what the data means.**
+
+# Terms and Definitions from Course 1
+
+## A
+
+**Analytical Skills:**
+Qualities and characteristics associated with using facts to solve problems.
+
+**Analytical Thinking:**
+The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner.
+
+**Attribute:**
+A characteristic or quality of data used to label a column in a table.
+
+---
+
+## B
+
+**Business Task:**
+The question or problem that data analysis resolves for a business.
+
+---
+
+## C
+
+**Context:**
+The condition in which something exists or happens.
+
+---
+
+## D
+
+**Data:**
+A collection of facts.
+
+**Data Analysis:**
+The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.
+
+**Data Analyst:**
+Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making.
+
+**Data Analytics:**
+The science of data.
+
+**Data Design:**
+How information is organized.
+
+**Data-Driven Decision-Making:**
+Using facts to guide business strategy.
+
+**Data Ecosystem:**
+The various elements that interact with one another to produce, manage, store, organize, analyze, and share data.
+
+**Data Science:**
+A field of study that uses raw data to create new ways of modeling and understanding the unknown.
+
+**Data Strategy:**
+The management of the people, processes, and tools used in data analysis.
+
+**Data Visualization:**
+The graphical representation of data.
+
+**Database:**
+A collection of data stored in a computer system.
+
+**Dataset:**
+A collection of data that can be manipulated or analyzed as one unit.
+
+---
+
+## F
+
+**Fairness:**
+A quality of data analysis that does not create or reinforce bias.
+
+**Formula:**
+A set of instructions used to perform a calculation using the data in a spreadsheet.
+
+**Function:**
+A preset command that automatically performs a specified process or task using the data in a spreadsheet.
+
+---
+
+## G
+
+**Gap Analysis:**
+A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future.
+
+---
+
+## O
+
+**Observation:**
+The attributes that describe a piece of data contained in a row of a table.
+
+**Oversampling:**
+The process of increasing the sample size of nondominant groups in a population. This can help better represent them and address imbalanced datasets.
+
+---
+
+## Q
+
+**Query:**
+A request for data or information from a database.
+
+**Query Language:**
+A computer programming language used to communicate with a database.
+
+---
+
+## R
+
+**Root Cause:**
+The reason why a problem occurs.
+
+---
+
+## S
+
+**Self-Reporting:**
+A data collection technique where participants provide information about themselves.
+
+**SQL:**
+See **Structured Query Language**.
+
+**Stakeholders:**
+People who invest time and resources into a project and are interested in its outcome.
+
+**Structured Query Language:**
+A computer programming language used to communicate with a database.
+
+**Spreadsheet:**
+A digital worksheet.
+
+---
+
+## T
+
+**Technical Mindset:**
+The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
+
+---
+
+## V
+
+**Visualization:**
+See **Data Visualization**.
+
