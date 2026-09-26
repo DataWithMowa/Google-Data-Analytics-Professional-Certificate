@@ -4,3 +4,4 @@ Google Data Analytics Professional Certificate completed through the Wetech Inc 
 Tools Learnt;
 - Google Sheet
 - --Sorting, Formulars, Data Entry, Data visulaization
+- SQL
