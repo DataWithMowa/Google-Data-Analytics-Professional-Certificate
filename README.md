@@ -42,4 +42,10 @@ MAJOR KEY LEARNING - FAIRNESS IN DATA ANALYTICS. Read more in Course 1 readme no
 - Communicating to Stakeholders - executive, customer-facing team and data scientist
 - Sharing your findings
 - Scope of work and statement of work
+- Ask effective questions
+- Make dará driven decision
+- Clear communication 
+- In this course, we explored effective questions ​and we learned how to use ​quantitative and qualitative data, ​metrics and math to connect the dots. ​We also covered spreadsheet basics, ​how to apply structured thinking ​and key communication skills for ​working with stakeholders and team members.
+
+## COURSE 3 — Prepare Data for Exploration
 
