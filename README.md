@@ -37,9 +37,9 @@ MAJOR KEY LEARNING - FAIRNESS IN DATA ANALYTICS. Read more in Course 1 readme no
 
 ## COURSE 2 - Ask Questions to Make Data-Driven Decisions
 
-More on spreadsheets, functions, formular, using google sheet
-reports and visualization
-Communicating to Stakeholders - executive, customer-facing team and data scientist
-Sharing your findings
-Scope of work and statement of work
+- More on spreadsheets, functions, formular, using google sheet
+- reports and visualization
+- Communicating to Stakeholders - executive, customer-facing team and data scientist
+- Sharing your findings
+- Scope of work and statement of work
 
