@@ -35,5 +35,11 @@ In this course, I learned the foundations of data analytics, including:
 MAJOR KEY LEARNING - FAIRNESS IN DATA ANALYTICS. Read more in Course 1 readme notes.
 
 
-COURSE 2 - 
+## COURSE 2 - Ask Questions to Make Data-Driven Decisions
+
+More on spreadsheets, functions, formular, using google sheet
+reports and visualization
+Communicating to Stakeholders - executive, customer-facing team and data scientist
+Sharing your findings
+Scope of work and statement of work
 
