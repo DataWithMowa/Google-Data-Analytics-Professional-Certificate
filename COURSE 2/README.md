@@ -1,3 +1,3 @@
-COURSE 2 - Ask Questions to Make Data-Driven Decisions
+## COURSE 2 - Ask Questions to Make Data-Driven Decisions
 
 
