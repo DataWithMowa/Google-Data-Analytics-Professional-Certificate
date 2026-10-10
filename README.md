@@ -48,4 +48,11 @@ MAJOR KEY LEARNING - FAIRNESS IN DATA ANALYTICS. Read more in Course 1 readme no
 - In this course, we explored effective questions ​and we learned how to use ​quantitative and qualitative data, ​metrics and math to connect the dots. ​We also covered spreadsheet basics, ​how to apply structured thinking ​and key communication skills for ​working with stakeholders and team members.
 
 ## COURSE 3 — Prepare Data for Exploration
+- Google Sheet
+- Big Query
+- learned about data types, bias in data, and how to organize and protect data using spreadsheets and SQL, allowing you to work with data confidently and ensure data quality.
+- Data Responsibility
+- Database essentials
+- Data Security
 
+## COURSE 4 — Process Data from Dirty to Clean
