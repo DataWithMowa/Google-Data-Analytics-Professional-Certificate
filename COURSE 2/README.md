@@ -40,4 +40,4 @@ Spreadsheets are a key data analytics tool. Here you’ll learn both why and how
 Successful data analysts balance the needs and expectations of their team and the stakeholders they support. In this part of the course, you’ll learn strategies for managing stakeholder expectations while establishing clear communication with your team.
 
 ---
-*Disclaimer: This folder is for personal educational tracking and note-taking purposes. Course material and curriculum belong to Google and Coursera.*
+*Disclaimer: This repository is for personal educational tracking and note-taking purposes. Course material and curriculum belong to Google and Coursera.*
