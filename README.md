@@ -1,6 +1,6 @@
 # Google Data Analytics Professional Certificate
 
-Completed through the **Wetech Inc. Data Analytics Track**.
+Completed through the **Wetech Inc. Data Analytics Track** on [View My Coursera Learning Progress](https://www.coursera.org/organizations/gwg-ent-wetech-inc/my-learning?myLearningTab=IN_PROGRESS)
 
 This repository documents my learning journey and showcases my completion of the Google Data Analytics Professional Certificate. The program provided practical exposure to **data cleaning, analysis, visualization, spreadsheets, SQL, Tableau, and Python** through hands-on learning, assessments, and real-world case studies.
 
