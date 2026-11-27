@@ -1,17 +1,19 @@
-# Google Data Analytics Certificate
+# Course 1: Foundations: Data, Data, Everywhere
 
-This readme documents my progress and learning journey through the Course 1 of the Google Data Analytics Professional Certificate. 
+This folder contains my notes, assignments, and certificate for the first course of the Google Data Analytics Professional Certificate.
 
-## Course 1: Foundations: Data, Data, Everywhere
+## Proof of Completion
+*   [View Course 1 Certificate](./Course%201%20Certificate.pdf)
+*   [View Course 1 Graded Assignment Results](./Course%201%20Graded%20Assignment%20Results.png)
 
-### About this Course
+## About this Course
 This is the first course in the Google Data Analytics Certificate. Organizations of all kinds need data analysts to help them improve their processes, identify opportunities and trends, launch new products, and make thoughtful decisions. 
 
-In this course, I was introduced to the world of data analytics through a hands-on curriculum developed by Google. The material covers plenty of key data analytics topics and is designed to give an overview of what's to come in the Google Data Analytics Certificate. Current Google data analysts provide instruction and hands-on ways to accomplish common data analyst tasks using the best tools and resources. 
+In this course, I was introduced to the world of data analytics through a hands-on curriculum developed by Google. The material covers plenty of key data analytics topics and is designed to give an overview of what's to come in the Google Data Analytics Certificate.
 
 ---
 
-### Learning Objectives
+## Learning Objectives
 By the end of this course, I have been able to:
 
 *   Gain an understanding of the practices and processes employed by a junior or associate data analyst in their day-to-day job.
@@ -22,4 +24,4 @@ By the end of this course, I have been able to:
 *   Explore job opportunities available upon program completion, and learn about best practices to leverage during a job search.
 
 ---
-*Disclaimer: This readme is for personal educational tracking and note-taking purposes. Course material and curriculum belong to Google and Coursera.*
+*Disclaimer: This repository is for personal educational tracking and note-taking purposes. Course material and curriculum belong to Google and Coursera.*
